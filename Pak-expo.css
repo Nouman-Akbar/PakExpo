@@ -507,7 +507,8 @@ a{
 		height: 100%;
 	}
 	.search_bar{
-		right: 15%;
-		width: 40%;
+		right: 10%;
+		width: 55%;
+		top: 100%;
 	}
 }
